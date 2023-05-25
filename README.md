@@ -1,1 +1,1 @@
-# DM
+This was a part of a running assignment for my **Machine Learning** class. We used the disease identification dataset and assigned every new data point in a new **cluster** using the different clustering methods like **K-Medoids, Hieararchical clustering etc.**
